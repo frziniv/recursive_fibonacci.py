@@ -6,7 +6,7 @@ def fib_recursive(n):
     elif n == 1:
         return 1
     else:
-        return fib_recursive(n - 1) + fib_recursive(n - 2)
+        return ) + fib_recursive(n - 2)
 
 # Example usage:
 number_to_calculate = 10
